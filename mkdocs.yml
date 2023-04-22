@@ -1,0 +1,6 @@
+site_name: UAI HPC
+
+theme:
+  name: material
+  palette:
+    primary: black
