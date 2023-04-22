@@ -4,3 +4,11 @@ theme:
   name: material
   palette:
     primary: black
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Open-Source-UAI
