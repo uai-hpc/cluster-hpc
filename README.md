@@ -1,4 +1,7 @@
 # HPC Documentation
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/371210944a9a4d158aefffdaf6903ced)](https://app.codacy.com/gh/Open-Source-UAI/cluster-hpc/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
+
 In this repository the offical end user documentation of DaniLO cluster and installation steps
 
 This documentation project makes use of [MkDocs Material Design Theme](https://squidfunk.github.io/mkdocs-material).
